@@ -16,5 +16,5 @@
 - [ ] 14. Functions
 - [ ] 15. Functoin expression
 - [ ] 16. Arrow functions, the basics
-- [ ] 17. JavaScript specials
+* [ ] 17. JavaScript specials
 
