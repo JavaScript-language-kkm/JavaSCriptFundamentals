@@ -5,7 +5,7 @@
 - 3. The modern mode, "use strict"
 - 4. Variables 
 - 5. Data types
-- 6.Typr Conversions
+- 6. Type Conversions
 - 7. Operators 
 - 8. Comparisons
 - 9. Interaction: alert, prompt, confirm 
